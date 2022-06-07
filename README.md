@@ -1,2 +1,2 @@
-# A-SHIT
-OdinProject A-shit site
+# landing-page-odin
+landing-page-odint site
